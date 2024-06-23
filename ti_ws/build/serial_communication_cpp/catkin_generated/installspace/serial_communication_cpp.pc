@@ -1,0 +1,8 @@
+prefix=/home/jodh/ti_ws/install
+
+Name: serial_communication_cpp
+Description: Description of serial_communication_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

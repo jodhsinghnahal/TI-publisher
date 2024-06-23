@@ -1,0 +1,2 @@
+serial_communication:serial_communication_cpp
+-DCATKIN_DEVEL_PREFIX=/home/jodh/ti_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jodh/ti_ws/install -G Unix Makefiles
